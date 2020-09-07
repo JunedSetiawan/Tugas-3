@@ -1,0 +1,99 @@
+fieldset {
+	display:inline-block;
+}
+.logo {
+	padding-left:20px;
+}
+.A {
+	width:28%;
+	height:32px;
+	margin:5px;	
+}
+.A1 {
+	color:#0000FF;
+	font-weight:bold;
+	font-family:arial;
+	padding-left:7px;
+}
+.B {
+
+	width:60%;
+	height:32px;
+	margin:5px;
+}
+.C {
+	width:26%;
+	height:32px;
+	padding-right:10px;
+	margin:4px;
+}
+h1 {
+	padding-top:100px;
+	font-family:helvetica;
+	font-size:25px;
+	text-align:left;
+	padding-left:28px;
+}
+h4 {
+	padding-bottom:10px;
+	font-family:arial;
+	text-align:left;
+	padding-left:28px;
+}
+p {
+	text-align:left;
+	padding-left:20px;
+	font-weight:bold;
+}
+h5 { 
+    text-align:left;
+	padding-left:25px;
+	font-family:helvetica;
+	font-size:12px;
+	font-weight:bold;
+}
+.login {
+	border:none;
+	color:#0000FF;
+	background-color:#FFFFFF;
+	padding:22px;
+	font-size:15px;
+	font-family:arial;
+	font-weight:bold;
+	position:relative;
+	float:left;
+}
+.next {
+	border:none;
+	background-color:#0000FF;
+	color:#FFFFFF;
+	padding:10px;
+	float:center;
+	font-weight:bold;
+	margin:10px;
+	font-family:helvetica;
+}
+.pilih {
+	padding-top:1px;
+	background-color:#FFFFFF;
+	border:none;
+	padding-right:5px;
+}
+.tombol1 {
+	border:none;
+	background-color:#FFFFFF;
+	padding-top:5px;
+}
+.tombol {
+    border:none;
+	background-color:#FFFFFF;
+	padding-left:10px;
+	padding-top:5px;
+
+}
+.kosong {
+	padding-left:290px;
+}
+.kosong1 {
+	padding-left:370px;
+}
